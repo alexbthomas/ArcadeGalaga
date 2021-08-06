@@ -1,7 +1,2 @@
 # ArcadeGalaga
-This was made in Trinket.io
-Here is the link:
-
-https://alexbthomas03-gmail-com.trinket.io/sites/spaceaddressbattle
-Trailing Shots Enabled
-On kill extra shot fired
+My goal with this project is to recreate the classic arcade game Galaga. I also want to use this program as an oppurtunity to practice using the turtle library.
